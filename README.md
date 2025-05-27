@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @82deutschmark
-- 👀 I’m interested in ... vibe coding!
+- 👀 I’m interested in ... LLMs, MCP
 - 🌱 I’m currently learning ... everything and anything!
-- 💞️ I’m looking to collaborate on ... vibe coding!
+- 💞️ I’m looking to collaborate on ... stuff?
 
 
 <!---
